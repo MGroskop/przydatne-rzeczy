@@ -1,4 +1,4 @@
-Przydatne polecenia GIT
+Przydatne polecenia GIT 
 
     git init - inicjalizuje repozytorium GIT w katalogu
     git clone {adres repozytorium} - klonuje repozytorium do katalogu
